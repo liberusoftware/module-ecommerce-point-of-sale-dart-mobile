@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-point-of-sale-dart-mobile",
+  "capabilityKey": "planned:ecommerce:point-of-sale",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_point_of_sale_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/point-of-sale.md",
+  "presentationPlan": "projects/ecommerce/features/point-of-sale.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
